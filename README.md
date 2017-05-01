@@ -22,7 +22,7 @@ http://www.wanhao3dprinter.com/FAQ/ShowArticle.asp?ArticleID=79
 
 Printer Firmware:
 
-Download Arduino 1.6.4 from the [arduino website](https://www.arduino.cc/en/main/OldSoftwareReleases).
+Download Arduino 1.6.4 from the [arduino website](https://www.arduino.cc/en/main/OldSoftwareReleases). (Doesnt compile with newest version)
 Connect printer to pc. If you have trouble with drivers look [here](http://3dprinterwiki.info/wiki/wanhao-duplicator-i3-plus/wanhao-i3-plus-documentation-factory-files/ch340x-driver-information/).
 Load Marlin.ino with Arduino. Select Arduino Mega under Tools->Boards.
 Check the sketch with the ✔ button. If no errors show up upload the sketch to your printer.
