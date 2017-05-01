@@ -27,6 +27,8 @@ Connect printer to pc. If you have trouble with drivers look [here](http://3dpri
 Load Marlin.ino with Arduino. Select Arduino Mega under Tools->Boards.
 Check the sketch with the ✔ button. If no errors show up upload the sketch to your printer.
 
+If anything goes wrong, you can get the stock firmware files from [here](http://www.wanhao3dprinter.com/FAQ/ShowArticle.asp?ArticleID=79)
+
 # Usefull development links:
 
 Marlin changes for LCD:
@@ -37,6 +39,10 @@ LCD Manufraturer (contains sdk, datasheets, drivers and more):
 
 http://dwin.com.cn/english/products/bt-72876584214435.html
 
+
+# Disclaimer
+
+I'm not responsible for any damage done to your printer or lcd.
 
 # Things i noticed:
 
