@@ -1,5 +1,3 @@
-# WanhaoI3PlusFirmwareMod
-
 # Mods implemented:
 
 LCD Firmware:
