@@ -10,6 +10,7 @@ All changes made so far are independent from the other firmware.
 So you can install only printer firmware mod to get sdmenu mod or only printer firmware for diagonal leveling. Or both.
 
 # Mods Planned:
+- Slightly longer file names in sd menu
 - Multiple preheat profiles with different temperatures (hotend/bed)
 - Subfolder support for sdcard
 - [Complete menu redesign](http://imgur.com/VQiZ4BC) (Will require removal of chinese translation for space reasons)
