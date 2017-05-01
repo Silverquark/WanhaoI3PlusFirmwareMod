@@ -12,7 +12,7 @@ So you can install only printer firmware mod to get sdmenu mod or only printer f
 # Mods Planned:
 - Multiple preheat profiles with different temperatures (hotend/bed)
 - Subfolder support for sdcard
-- [Complete menu redesign](http://imgur.com/VQiZ4BC)
+- [Complete menu redesign](http://imgur.com/VQiZ4BC) (Will require removal of chinese translation for space reasons)
 
 # Installation:
 
