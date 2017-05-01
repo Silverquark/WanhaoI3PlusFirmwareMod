@@ -6,6 +6,9 @@ LCD Firmware:
 Printer Firmware:
 - Diagonal leveling assistant
 
+All changes made so far are independent from the other firmware.
+So you can install only printer firmware mod to get sdmenu mod or only printer firmware for diagonal leveling. Or both.
+
 # Mods Planned:
 - Multiple preheat profiles with different temperatures (hotend/bed)
 - Subfolder support for sdcard
